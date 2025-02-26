@@ -8,7 +8,7 @@ int main() {
     float pib;
     int numPontosTuristicos;
 
-   
+
     printf("##### Cadastro de cartas - SUPER TRUNFO CIDADES ######\n");
 
     printf("INSIRA OS DADO DA NOVA CARTA (CIDADE):\n");
